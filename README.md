@@ -1,4 +1,4 @@
-# Translate server-side
+# Translate server-side program
 
-## clinet side Repository 
+## client-side Repository 
 ## https://github.com/ansariabn/translate-client
